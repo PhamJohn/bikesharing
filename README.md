@@ -7,3 +7,4 @@ Conclusions drawn from this is when looking at activity from midnight to 2AM, we
 ![Gender](https://github.com/codepast12/bikesharing/tree/main/Resources/gender.png)
 
 Main dashboard published is here in [Tableau](https://public.tableau.com/app/profile/john.pham4976/viz/Challenge_16295796422770/Dashboard1?publish=yes).
+![Main](https://github.com/codepast12/bikesharing/tree/main/Resources/main.png)
